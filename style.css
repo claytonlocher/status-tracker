@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+span.error {
+  font-size: 1.2rem;
+  color: red;
+  padding: 0 1rem;
+}
+
+label {
+  display: block;
+  padding-bottom: 0.5rem;
+}
+
+select {
+  margin-bottom: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  text-align: left;
+  color: #555;
+}
+
+thead th {
+  padding: 0.5rem 1rem;
+}
+
+tbody tr td {
+  padding: 0.5rem 1rem;
+  text-align: left;
+}
+
+tbody tr:nth-child(4n + 1),
+tbody tr:nth-child(4n + 2) {
+  background: #eee;
+}
+
+table tbody tr:nth-child(4n + 2) td {
+  padding-left: 2rem;
+}

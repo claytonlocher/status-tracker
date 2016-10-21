@@ -1,0 +1,19 @@
+{
+  "name": "status-tracker",
+  "version": "0.0.1",
+  "description": "Simple status tracker application",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytonlocher/status-tracker.git"
+  },
+  "author": "Clayton Locher",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/claytonlocher/status-tracker/issues"
+  },
+  "homepage": "https://github.com/claytonlocher/status-tracker#readme"
+}
